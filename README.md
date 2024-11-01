@@ -32,3 +32,10 @@ Ensure you have the following installed:
   matplotlib
   seaborn
   ```
+
+  ### Running the App
+To launch the Streamlit app, use the following command:
+
+```bash
+streamlit run main.py
+```
