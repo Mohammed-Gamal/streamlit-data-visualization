@@ -6,7 +6,7 @@ This project is a demo for creating an interactive data visualization web app us
 Upload a CSV file, choose from various plot types, and adjust parameters directly from the sidebar to generate insights.
 
 ![Preview Image](https://i.imgur.com/rlYV2Vd.png)
-
+<video src="https://github.com/user-attachments/assets/e7cda79e-f5ad-492e-b60b-a4a3e0185be0" controls></video>
 
 - **Plot Types**:
 
